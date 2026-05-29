@@ -8,6 +8,7 @@
   "github_mirror": "github.com",
   "infinite_arrow": null,
   "remove_tag_liga": false,
+  "width": "narrow",
   "weight_mapping": {
     "thin": 100,
     "extralight": 200,
